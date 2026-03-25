@@ -115,7 +115,7 @@ Full-stack web application
 
 ## 📫 Connect With Me
 
-* 📧 Email: mailto:your-shreyasnarsale04@gmail.com
+* 📧 Email: shreyasnarsale04@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/shreyas-narsale-04b266261
 
 ---
