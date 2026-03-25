@@ -107,9 +107,9 @@ Full-stack web application
 
 ## 📊 GitHub Stats
 
-![Shreyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasnarsale\&show_icons=true\&theme=tokyonight)
+![Shreyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasnarsale&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale&layout=compact&theme=tokyonight)
 
 ---
 
@@ -117,6 +117,7 @@ Full-stack web application
 
 * 📧 Email: shreyasnarsale04@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/shreyas-narsale-04b266261
+* 🧠 LeetCode: https://leetcode.com/shreyasnarsale
 
 ---
 
