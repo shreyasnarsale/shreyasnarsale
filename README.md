@@ -115,11 +115,11 @@ Full-stack web application
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-shreyasnarsale04@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/shreyas-narsale
+* 📧 Email: mailto:your-shreyasnarsale04@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/shreyas-narsale-04b266261
 
 ---
 
 ## ⚡ Fun Fact
 
-🏍️ I enjoy bikes + coding + building real-world projects 😎
+🚗 I love driving and building real-world projects 😎
