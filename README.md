@@ -1,16 +1,125 @@
-## Hi there 👋
+# Hi 👋, I'm Shreyas Narsale
 
-<!--
-**shreyasnarsale/shreyasnarsale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE IT Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Information Technology Student
+* 💡 Interested in Web Development, AI, and Automation
+* 🌱 Currently learning: Advanced React, Cloud & System Design
+* 🏆 Preparing for MPSC & building strong dev skills
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages
+
+* C, C++, Java, Python
+* JavaScript, TypeScript
+* SQL
+* Bash (Linux basics)
+
+🌐 Web Development
+
+* HTML, CSS
+* React.js, Tailwind CSS
+* Firebase
+
+📊 Data & Tools
+
+* Jupyter Notebook
+* Hadoop
+* Machine Learning Basics
+* Git & GitHub
+* Data Visualization (Matplotlib, Seaborn)
+
+☁️ Cloud & Technologies
+
+* Cloud Computing Fundamentals
+* Firebase (Auth + Hosting)
+* REST APIs
+* Basic DevOps Concepts
+
+---
+
+## 🔥 Featured Projects
+
+### 📄 Documentation Generator 
+
+Smart system that automatically generates documentation from uploaded files
+
+* ⚡ Upload files → Generate structured documentation
+* 🧠 Focus on automation & productivity
+* 🛠️ Built using Jupyter Notebook + scripting
+* 🎯 Useful for developers & students
+
+---
+
+### 🧠 Dynamic Quiz Challenge
+
+AI-powered quiz generator using Google Gemini API
+
+* ⚡ React + TypeScript + Tailwind CSS
+* 🎯 Generates real-time quizzes
+
+---
+
+### 📚 Library Management System
+
+Full-stack web application
+
+* 🧩 Backend: Python (Flask/FastAPI)
+* 🎨 Frontend: HTML, CSS, JavaScript
+
+---
+
+### 🔐 Firebase Auth App
+
+* 🔑 Authentication system using Firebase
+* ⚡ JavaScript-based implementation
+
+---
+
+### 🌐 Portfolio Website
+
+* Personal portfolio
+* Built using HTML & CSS
+
+---
+
+## 📂 Academic & Practice Work
+
+* DBMS, DSA, OOP, OS, CG, CNSL Practicals
+* Machine Learning & Data Science
+* Cloud Computing Labs
+
+---
+
+## 🎮 Other Projects
+
+* 🕹️ JavaScript Games
+* 🚖 Cab Booking App 
+
+---
+
+## 📊 GitHub Stats
+
+![Shreyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasnarsale\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-shreyasnarsale04@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/shreyas-narsale
+
+---
+
+## ⚡ Fun Fact
+
+🏍️ I enjoy bikes + coding + building real-world projects 😎
