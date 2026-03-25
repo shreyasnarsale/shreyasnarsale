@@ -107,10 +107,11 @@ Full-stack web application
 
 ## 📊 GitHub Stats
 
-![Shreyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasnarsale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Shreyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasnarsale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnarsale&layout=compact&theme=tokyonight&langs_count=8)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=shreyasnarsale&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
