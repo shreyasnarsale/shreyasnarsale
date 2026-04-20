@@ -9,7 +9,7 @@
 * 🎓 Information Technology Student
 * 💡 Interested in Web Development, AI, and Automation
 * 🌱 Currently learning: Advanced React, Cloud & System Design
-* 🏆 Preparing for MPSC & building strong dev skills
+* 🏆 Building strong dev skills
 
 ---
 
